@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<addon id="repository.no-sleep" name="[COLOR ghostwhite]No-Sleep IPTV[/COLOR]" version="3.0" provider-name="Walter_White_Media">
+<addon id="repository.no-sleep" name="[COLOR ghostwhite]No-Sleep IPTV[/COLOR]" version="2.0" provider-name="Walter_White_Media">
   <requires>
     <import addon="xbmc.addon" version="12.0.0" />
   </requires>
