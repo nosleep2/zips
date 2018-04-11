@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.video.no-sleep" name="[COLOR ghostwhite]No-Sleep[/COLOR]" version="3.0" provider-name="Walter_White_Media">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">No-Sleep</summary>
+    <language>en</language>
+    <description lang="en">No-Sleep-Supplier of Great Quality, Stable Streams, that will beat any competitors advertised pricing for IPTV services.
+-Please Be sure to join us at https://www.facebook.com/groups/NoSleep2
+-We do not own any content you are about to stream! We always recommend a quality VPN
+-Official facebook group https://www.facebook.com/groups/NoSleep2 </description>
+    <platform>all</platform>
+  </extension>
+</addon>
