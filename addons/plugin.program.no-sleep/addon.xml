@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.no-sleep" name="[COLORghostwhite][B]No-Sleep Wizard[/B][/COLOR]" version="2.1" provider-name="Walter_White_Media">
+<addon id="plugin.program.no-sleep" name="[COLORghostwhite][B]No-Sleep Wizard[/B][/COLOR]" version="2.4" provider-name="Walter_White_Media">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
