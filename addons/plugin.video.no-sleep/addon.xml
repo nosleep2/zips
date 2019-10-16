@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<addon id="plugin.video.no-sleep" name="[COLOR ghostwhite]No-Sleep[/COLOR]" version="3.7" provider-name="Walter_White_Media">
+<addon id="plugin.video.no-sleep" name="[COLOR ghostwhite]No-Sleep[/COLOR]" version="3.8" provider-name="Walter_White_Media">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.requests" />
